@@ -1,0 +1,15 @@
+body {
+    background-color: gray;
+}
+header, footer {
+    background-color: red;
+}
+h1 {
+    color: blue;
+}
+h2, h3 {
+    color: yellow;
+}
+p {
+    color: darkblue;
+}
